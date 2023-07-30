@@ -1,1 +1,1 @@
-# DimGoalCompletionState
+# SpDimGoalCompletionState
